@@ -1,0 +1,8 @@
+# Local Settings for OpenAI API Key
+# This file is for development only and should NOT be committed to version control
+
+# Replace with your actual OpenAI API key
+OPENAI_API_KEY = "sk-your-actual-openai-api-key-here"
+
+# Add to .gitignore:
+# local_settings.py

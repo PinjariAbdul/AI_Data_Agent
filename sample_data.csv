@@ -1,0 +1,11 @@
+Customer ID,Customer Name,Email,Purchase Date,Amount,Product Category,Region
+1001,John Smith,john.smith@email.com,2024-01-15,250.50,Electronics,North
+1002,Sarah Johnson,sarah.j@email.com,2024-01-16,89.99,Clothing,South
+1003,Mike Brown,mike.brown@email.com,2024-01-17,399.99,Electronics,West
+1004,Emily Davis,emily.d@email.com,2024-01-18,45.00,Books,East
+1005,David Wilson,david.w@email.com,2024-01-19,150.75,Clothing,North
+1006,Lisa Garcia,lisa.g@email.com,2024-01-20,299.99,Electronics,South
+1007,Tom Martinez,tom.m@email.com,2024-01-21,75.50,Books,West
+1008,Anna Thompson,anna.t@email.com,2024-01-22,199.99,Clothing,East
+1009,James Anderson,james.a@email.com,2024-01-23,449.99,Electronics,North
+1010,Maria Rodriguez,maria.r@email.com,2024-01-24,35.00,Books,South
